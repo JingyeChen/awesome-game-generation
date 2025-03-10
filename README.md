@@ -131,7 +131,7 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2020]
 
-* 📄 [CVPR 2020] **Playable Video Generation**, Seung Wook Kim et al. 
+* 📄 [CVPR 2020] **Learning to Simulate Dynamic Environments with GameGAN**, Seung Wook Kim et al. 
 [[Paper](https://arxiv.org/abs/2005.12126)] 
 [[Code](https://github.com/nv-tlabs/GameGAN_code)] 
 
