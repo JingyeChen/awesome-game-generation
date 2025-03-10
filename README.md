@@ -51,6 +51,10 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2024]
 
+
+* 🎮 **Maggie's Garden**, AutoGame. 
+[[Game Link](https://store.steampowered.com/app/2990190/_/)] 
+
 * 🎮 **Free Pokémon**, Delta-Engine. 
 [[Game Link](https://github.com/gingasan/delta-engine/tree/main/free-pokemon)] 
 
@@ -88,6 +92,11 @@ You may use these categorized emojis to search for specific types of material.
 
 * 📄 [arXiv 2024] **Genie: Generative Interactive Environments**, Jake Bruce et al.
 [[Paper](https://arxiv.org/abs/2402.15391)] 
+
+* 🎮 **Comforting Simulator 哄哄模拟器**, Dengke Wang.
+[[Game Link](https://hong.greatdk.com/)] 
+[[Blog-Chinese](https://news.qq.com/rain/a/20240813A01WZ800/)] 
+
 
 ### [2023]
 * 📄 [NeurIPS 2023] **MarioGPT: Open-Ended Text2Level Generation through Large Language Models**, Shyam Sudhakaran et al.
@@ -144,6 +153,11 @@ The resource below is challenging to categorize yet offers valuable insights for
 
 * 📄 [ICLR 2025] **ARE LARGE VISION LANGUAGE MODELS GOOD GAME PLAYERS?**, Xinyu Wang et al. 
 [[Paper](https://arxiv.org/pdf/2503.02358/)] 
+
+* 📄 [NeurIPS 2024] **https://arxiv.org/abs/2503.05383**, Weiyu Ma et al. 
+[[Paper](https://arxiv.org/abs/2503.05383/)] 
+
+
 
 * 📄 [arXiv 2024] **Enhance Reasoning for Large Language Models in the Game Werewolf**, Shuang Wu et al. 
 [[Paper](https://arxiv.org/pdf/2402.02330/)] 
