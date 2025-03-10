@@ -52,7 +52,7 @@ You may use these categorized emojis to search for specific types of material.
 ### [2024]
 
 
-* 🎮 **Maggie's Garden**, AutoGame. 
+* 🎮 **Maggie's Garden 麦琪的花园**, AutoGame. 
 [[Game Link](https://store.steampowered.com/app/2990190/_/)] 
 
 * 🎮 **Free Pokémon**, Delta-Engine. 
