@@ -49,6 +49,10 @@ You may use these categorized emojis to search for specific types of material.
 [[Paper](https://arxiv.org/abs/2408.14837/)] 
 
 
+* 📄 [arXiv 2025] **GameFactory: Creating New Games with Generative Interactive Videos**, Jiwen Yu et al. 
+[[Paper](https://arxiv.org/abs/2501.08325/)] 
+
+
 ### [2024]
 
 
