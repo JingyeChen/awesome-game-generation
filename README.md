@@ -99,6 +99,11 @@ You may use these categorized emojis to search for specific types of material.
 
 
 ### [2023]
+
+* 🎮 **Guess the Drawing Based on Ancient Poems by AI**. 
+[[Blog-Chinese](https://www.qbitai.com/2023/12/105362.html)] 
+
+
 * 📄 [NeurIPS 2023] **MarioGPT: Open-Ended Text2Level Generation through Large Language Models**, Shyam Sudhakaran et al.
 [[Paper](https://arxiv.org/pdf/2302.05981/)] 
 [[Code](https://github.com/shyamsn97/mario-gpt)] 
@@ -154,7 +159,7 @@ The resource below is challenging to categorize yet offers valuable insights for
 * 📄 [ICLR 2025] **ARE LARGE VISION LANGUAGE MODELS GOOD GAME PLAYERS?**, Xinyu Wang et al. 
 [[Paper](https://arxiv.org/pdf/2503.02358/)] 
 
-* 📄 [NeurIPS 2024] **https://arxiv.org/abs/2503.05383**, Weiyu Ma et al. 
+* 📄 [NeurIPS 2024] **VLMs Play StarCraft II: A Benchmark and Multimodal Decision Method**, Weiyu Ma et al. 
 [[Paper](https://arxiv.org/abs/2503.05383/)] 
 
 
