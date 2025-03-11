@@ -55,6 +55,10 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2024]
 
+* 📄 [arXiv 2024] **Automating the Search for Artificial Life with Foundation Models**, Akarsh Kumar et al. 
+[[Paper](https://arxiv.org/abs/2412.17799/)] 
+
+
 
 * 🎮 **Maggie's Garden 麦琪的花园**, AutoGame. 
 [[Game Link](https://store.steampowered.com/app/2990190/_/)] 
@@ -104,6 +108,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2023]
 
+* 📄 [arXiv 2023]**GameGPT: Multi-agent Collaborative Framework for Game Development**. 
+[[Paper](https://arxiv.org/abs/2310.08067/)] 
+
 * 🎮 **Guess the Drawing Based on Ancient Poems by AI**. 
 [[Blog-Chinese](https://www.qbitai.com/2023/12/105362.html)] 
 
@@ -112,7 +119,7 @@ You may use these categorized emojis to search for specific types of material.
 [[Paper](https://arxiv.org/pdf/2302.05981/)] 
 [[Code](https://github.com/shyamsn97/mario-gpt)] 
 
-* 📝 [blog 2023] **LLM Riddles**, Haoqiang Fan. 
+* 📝 [blog 2023] **LLM Riddles 完蛋了我被LLM包围了**, Haoqiang Fan. 
 [[Blog-Chinese](https://zhuanlan.zhihu.com/p/665393240)] (also recommend to see other wonderful blogs!)
 
 
