@@ -55,6 +55,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2024]
 
+* 📄 [arXiv 2024] **Large Language Models and Games: A Survey and Roadmap**, Roberto Gallotta et al. 
+[[Paper](https://arxiv.org/abs/2402.18659/)] 
+
 * 📄 [arXiv 2024] **Automating the Search for Artificial Life with Foundation Models**, Akarsh Kumar et al. 
 [[Paper](https://arxiv.org/abs/2412.17799/)] 
 
@@ -108,7 +111,11 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2023]
 
-* 📄 [arXiv 2023]**GameGPT: Multi-agent Collaborative Framework for Game Development**. 
+* 📄 [arXiv 2023] **Language as Reality: A Co-creative Storytelling Game Experience in 1001 Nights Using Generative AI**, Yuqian Sun et al.
+[[Paper](https://arxiv.org/pdf/2308.12915/)] 
+[[Game Link](https://store.steampowered.com/app/2542850/1001_Nights/)] 
+
+* 📄 [arXiv 2023] **GameGPT: Multi-agent Collaborative Framework for Game Development**, Dake Chen et al.
 [[Paper](https://arxiv.org/abs/2310.08067/)] 
 
 * 🎮 **Guess the Drawing Based on Ancient Poems by AI**. 
@@ -124,6 +131,10 @@ You may use these categorized emojis to search for specific types of material.
 
 
 ### [2022]
+
+* 📄 [ToG 2022] **Latent Combinational Game Design**, Anurag Sarkar et al. 
+[[Paper](https://arxiv.org/pdf/2206.14203/)] 
+
 
 * 📝 [blog 2022] **Game Emulation via Neural Network**, Ollin Boer Bohan. 
 [[Blog](https://madebyoll.in/posts/game_emulation_via_dnn/)] (also recommend to see other wonderful blogs!)
@@ -177,6 +188,9 @@ The resource below is challenging to categorize yet offers valuable insights for
 
 * 📄 [arXiv 2024] **Enhance Reasoning for Large Language Models in the Game Werewolf**, Shuang Wu et al. 
 [[Paper](https://arxiv.org/pdf/2402.02330/)] 
+
+* 🎮 [2023] **PhD Simulator 读博模拟器**, Mianzhi Wang. 
+[[Game Link](https://research.wmz.ninja/projects/phd/index.zh-hans.html/)] 
 
 ## License
 
