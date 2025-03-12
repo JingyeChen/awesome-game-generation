@@ -161,6 +161,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2018]
 
+* 📄 [GECCO 2018] **Evolving Mario Levels in the Latent Space of a Deep Convolutional Generative Adversarial Network**, Vanessa Volz et al. 
+[[Paper](https://arxiv.org/pdf/1805.00728/)] 
+
 * 📄 [NeurIPS 2018] **World models**, Ha David et al. 
 [[Paper](https://arxiv.org/abs/1803.10122/)] 
 [[Code](https://github.com/ctallec/world-models)] 
