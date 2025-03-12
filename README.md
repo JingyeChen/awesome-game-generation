@@ -55,6 +55,12 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2024]
 
+* 📄 [arXiv 2024] **Procedural Content Generation in Games: A Survey with Insights on Emerging LLM Integration**, Mahdi Farrokhi Maleki et al. 
+[[Paper](https://arxiv.org/abs/2410.15644/)] 
+
+* 📄 [FDG 2024] **The Eyes, the Hands and the Brain: What can Text-to-Image Models Offer for Game Design and Visual Creativity?**, Hongwei Zhou et al. 
+[[Paper](https://dl.acm.org/doi/10.1145/3649921.3650001/)] 
+
 * 📄 [arXiv 2024] **Large Language Models and Games: A Survey and Roadmap**, Roberto Gallotta et al. 
 [[Paper](https://arxiv.org/abs/2402.18659/)] 
 
@@ -142,6 +148,12 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2021]
 
+* 📄 [CHI 2021] **TOAD-GAN: A Flexible Framework for Few-Shot Level Generation in Token-Based Games**, Frederik Schubert et al. 
+[[Paper](https://ieeexplore.ieee.org/document/9390320/)] 
+
+* 📄 [CHI 2021] **Player-AI Interaction: What Neural Network Games Reveal About AI as Play**, Jichen Zhu et al. 
+[[Paper](https://arxiv.org/abs/2101.06220/)] 
+
 * 📄 [CVPR 2021 Oral] **Playable Video Generation**, Willi Menapace et al. 
 [[Paper](https://arxiv.org/abs/2101.12195/)] 
 [[Code](https://github.com/willi-menapace/PlayableVideoGeneration)] 
@@ -149,17 +161,26 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2020]
 
+* 📄 [AAAI 2020] **Generating Game Levels for Multiple Distinct Games with a Common Latent Space**, Vikram Kumaran et al. 
+[[Paper](https://cdn.aaai.org/ojs/7485/7485-52-10946-1-2-20201001.pdf)] 
+
 * 📄 [CVPR 2020] **Learning to Simulate Dynamic Environments with GameGAN**, Seung Wook Kim et al. 
 [[Paper](https://arxiv.org/abs/2005.12126)] 
 [[Code](https://github.com/nv-tlabs/GameGAN_code)] 
 
 ### [2019]
 
+* 📄 [arXiv 2019] **General Video Game Rule Generation**, Ahmed Khalifa et al. 
+[[Paper](https://arxiv.org/abs/1906.05160/)] 
+
 * 🎮 **AI Dungeon**. 
 [[Game Link](https://play.aidungeon.com/)] 
 
 
 ### [2018]
+
+* 📄 [AAAI 2018] **Automated Game Design via Conceptual Expansion**, Matthew Guzdial et al. 
+[[Paper](https://arxiv.org/abs/1809.02232/)] 
 
 * 📄 [GECCO 2018] **Evolving Mario Levels in the Latent Space of a Deep Convolutional Generative Adversarial Network**, Vanessa Volz et al. 
 [[Paper](https://arxiv.org/pdf/1805.00728/)] 
@@ -170,11 +191,14 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2017]
 
+* 📄 [NeurIPS 2018] **Procedural Content Generation via Machine Learning (PCGML)**, Adam Summerville et al. 
+[[Paper](https://arxiv.org/abs/1702.00539/)] 
+
+
 ### [2016]
 
 * 🎮 **Quick Draw**, Google. 
 [[Game Link](https://quickdraw.withgoogle.com/)] 
-
 
 ### [Misc]
 
@@ -194,6 +218,9 @@ The resource below is challenging to categorize yet offers valuable insights for
 
 * 🎮 [2023] **PhD Simulator 读博模拟器**, Mianzhi Wang. 
 [[Game Link](https://research.wmz.ninja/projects/phd/index.zh-hans.html/)] 
+
+* 📄 [PCG 2012] **Game-O-Matic: Generating Videogames that Represent Ideas**, Mike Treanor et al. 
+[[Paper](https://dl.acm.org/doi/abs/10.1145/2538528.2538537/)] 
 
 ## License
 
