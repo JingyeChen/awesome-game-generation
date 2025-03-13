@@ -34,6 +34,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+* 📄 [arXiv 2025] **Toward Stable World Models: Measuring and Addressing World Instability in Generative Environments**, Soonwoo Kwon et al. 
+[[Paper](https://arxiv.org/abs/2503.08122/)] 
+
 * 📄 [Nature 2025] **World and Human Action Models towards gameplay ideation**, Anssi Kanervisto et al. 
 [[Paper](https://www.nature.com/articles/s41586-025-08600-3/)] 
 
@@ -116,6 +119,9 @@ You may use these categorized emojis to search for specific types of material.
 
 
 ### [2023]
+
+* 🎮 **AI Roguelite**. 
+[[Game Link](https://store.steampowered.com/app/1889620/AI_Roguelite/)] (strongly recommend to see the vision in the game introduction)
 
 * 📄 [arXiv 2023] **Language as Reality: A Co-creative Storytelling Game Experience in 1001 Nights Using Generative AI**, Yuqian Sun et al.
 [[Paper](https://arxiv.org/pdf/2308.12915/)] 
@@ -203,6 +209,9 @@ You may use these categorized emojis to search for specific types of material.
 ### [Misc]
 
 The resource below is challenging to categorize yet offers valuable insights for game development.
+
+* 📄 [arXiv 2025] **CombatVLA: An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games**, Peng Chen et al. 
+[[Paper](https://arxiv.org/abs/2503.09527/)] 
 
 
 * 📄 [ICLR 2025] **ARE LARGE VISION LANGUAGE MODELS GOOD GAME PLAYERS?**, Xinyu Wang et al. 
