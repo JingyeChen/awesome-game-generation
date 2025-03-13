@@ -59,7 +59,7 @@ You may use these categorized emojis to search for specific types of material.
 [[Paper](https://arxiv.org/abs/2410.15644/)] 
 
 * 📄 [FDG 2024] **The Eyes, the Hands and the Brain: What can Text-to-Image Models Offer for Game Design and Visual Creativity?**, Hongwei Zhou et al. 
-[[Paper](https://dl.acm.org/doi/10.1145/3649921.3650001/)] 
+[[Paper](https://escholarship.org/content/qt7tp7q651/qt7tp7q651.pdf/)] 
 
 * 📄 [arXiv 2024] **Large Language Models and Games: A Survey and Roadmap**, Roberto Gallotta et al. 
 [[Paper](https://arxiv.org/abs/2402.18659/)] 
