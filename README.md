@@ -148,7 +148,7 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2021]
 
-* 📄 [CHI 2021] **TOAD-GAN: A Flexible Framework for Few-Shot Level Generation in Token-Based Games**, Frederik Schubert et al. 
+* 📄 [ToG 2021] **TOAD-GAN: A Flexible Framework for Few-Shot Level Generation in Token-Based Games**, Frederik Schubert et al. 
 [[Paper](https://ieeexplore.ieee.org/document/9390320/)] 
 
 * 📄 [CHI 2021] **Player-AI Interaction: What Neural Network Games Reveal About AI as Play**, Jichen Zhu et al. 
