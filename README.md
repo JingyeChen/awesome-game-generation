@@ -191,7 +191,7 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2017]
 
-* 📄 [NeurIPS 2018] **Procedural Content Generation via Machine Learning (PCGML)**, Adam Summerville et al. 
+* 📄 [arXiv 2017] **Procedural Content Generation via Machine Learning (PCGML)**, Adam Summerville et al. 
 [[Paper](https://arxiv.org/abs/1702.00539/)] 
 
 
