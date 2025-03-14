@@ -34,6 +34,10 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+
+* 📄 [arXiv 2025] **WonderVerse: Extendable 3D Scene Generation with Video Generative Models**, Hao Feng et al. 
+[[Paper](https://arxiv.org/abs/2503.09160/)] 
+
 * 📄 [arXiv 2025] **"I Like Your Story!": A Co-Creative Story-Crafting Game with a Persona-Driven Character Based on Generative AI**, Jiaying Fu et al. 
 [[Paper](https://arxiv.org/pdf/2503.09102v1/)] 
 
@@ -60,6 +64,15 @@ You may use these categorized emojis to search for specific types of material.
 
 
 ### [2024]
+
+* 📄 [UIST 2024 Best Paper] **Augmented Physics: Creating Interactive and Embedded Physics Simulations from Static Textbook Diagrams**, Aditya Gunturu et al. 
+[[Paper](https://arxiv.org/abs/2405.18614/)] 
+
+
+* 📄 [arXiv 2024] **WonderWorld: Interactive 3D Scene Generation from a Single Image**, Hong-Xing Yu et al. 
+[[Paper](https://arxiv.org/abs/2406.09394/)] 
+
+
 
 * 📄 [arXiv 2024] **Procedural Content Generation in Games: A Survey with Insights on Emerging LLM Integration**, Mahdi Farrokhi Maleki et al. 
 [[Paper](https://arxiv.org/abs/2410.15644/)] 
@@ -120,6 +133,9 @@ You may use these categorized emojis to search for specific types of material.
 [[Game Link](https://hong.greatdk.com/)] 
 [[Blog-Chinese](https://news.qq.com/rain/a/20240813A01WZ800/)] 
 
+* 📄 [CVPR 2024] **WonderJourney: Going from Anywhere to Everywhere**, Hong-Xing Yu et al. 
+[[Paper](https://arxiv.org/abs/2312.03884/)] 
+[[Code](https://github.com/KovenYu/WonderJourney/)] 
 
 ### [2023]
 
