@@ -65,6 +65,10 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2024]
 
+* 📄 [NeurIPS 2024 Spotlight] **Generating a Diversity of Challenging Programming Puzzles with Autotelic Generative Models**, Julien Pourcel et al. 
+[[Paper](https://openreview.net/pdf?id=L1mMK39Z7P/)] 
+
+
 * 📄 [UIST 2024 Best Paper] **Augmented Physics: Creating Interactive and Embedded Physics Simulations from Static Textbook Diagrams**, Aditya Gunturu et al. 
 [[Paper](https://arxiv.org/abs/2405.18614/)] 
 
@@ -138,6 +142,13 @@ You may use these categorized emojis to search for specific types of material.
 [[Code](https://github.com/KovenYu/WonderJourney/)] 
 
 ### [2023]
+
+
+* 📄 [arXiv 2023] **Procedural Content Generation of Puzzle Games using Conditional Generative Adversarial Networks**, Andreas Hald et al.
+[[Paper](https://arxiv.org/pdf/2306.15696/)] 
+
+
+
 
 * 🎮 **AI Roguelite**. 
 [[Game Link](https://store.steampowered.com/app/1889620/AI_Roguelite/)] (strongly recommend to see the vision in the game introduction)
