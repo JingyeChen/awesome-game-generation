@@ -143,6 +143,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2023]
 
+* 📄 [arXiv 2023] **The Five-Dollar Model: Generating Game Maps and Sprites from Sentence Embeddings**, Timothy Merino et al.
+[[Paper](https://arxiv.org/pdf/2308.04052/)] 
+
 
 * 📄 [arXiv 2023] **Procedural Content Generation of Puzzle Games using Conditional Generative Adversarial Networks**, Andreas Hald et al.
 [[Paper](https://arxiv.org/pdf/2306.15696/)] 
