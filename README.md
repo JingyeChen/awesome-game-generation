@@ -38,7 +38,6 @@ You may use these categorized emojis to search for specific types of material.
 [[Paper](https://arxiv.org/abs/2503.09160/)] 
 
 * 📄 [CHI EA 2025] **"I Like Your Story!": A Co-Creative Story-Crafting Game with a Persona-Driven Character Based on Generative AI**, Jiaying Fu et al. 
->>>>>>> 8dffbb5c0e56ebb3e63610f3ee46706106655bb8
 [[Paper](https://arxiv.org/pdf/2503.09102v1/)] 
 
 * 📄 [arXiv 2025] **Toward Stable World Models: Measuring and Addressing World Instability in Generative Environments**, Soonwoo Kwon et al. 
