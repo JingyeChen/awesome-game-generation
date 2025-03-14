@@ -45,6 +45,7 @@ You may use these categorized emojis to search for specific types of material.
 
 * 📄 [Nature 2025] **World and Human Action Models towards gameplay ideation**, Anssi Kanervisto et al. 
 [[Paper](https://www.nature.com/articles/s41586-025-08600-3/)] 
+[[TED Talk](https://www.ted.com/talks/katja_hofmann_why_we_re_training_ai_on_video_games)]
 
 * 📄 [ICLR 2025] **Unbounded: A Generative Infinite Game of Character Life Simulation**, Jialu Li et al. 
 [[Paper](https://arxiv.org/abs/2410.18975/)] 
