@@ -34,6 +34,12 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+* 📄 [arXiv 2025] **Agents Play Thousands of 3D Video Games**, Zhongwen Xu et al. 
+[[Paper](https://zhongwen.one/projects/portal/)] 
+
+* 🎮 **Whispers from the Star**, Anuttacon. 
+[[Game Link](https://wfts.anuttacon.com/)] 
+
 * 📄 [arXiv 2025] **WonderVerse: Extendable 3D Scene Generation with Video Generative Models**, Hao Feng et al. 
 [[Paper](https://arxiv.org/abs/2503.09160/)] 
 
