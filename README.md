@@ -34,6 +34,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+* 📝 [blog 2025] **Real-Time Toxicity Detection in Games: Balancing Moderation and Player Experience**, Sean et al. 
+[[blog](https://www.confluent.io/blog/confluent-databricks-detecting-gaming-toxicity/)] 
+
 * 📄 [arXiv 2025] **Agents Play Thousands of 3D Video Games**, Zhongwen Xu et al. 
 [[Paper](https://zhongwen.one/projects/portal/)] 
 
