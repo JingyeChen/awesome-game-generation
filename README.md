@@ -257,7 +257,10 @@ You may use these categorized emojis to search for specific types of material.
 The resource below is challenging to categorize yet offers valuable insights for game development.
 
 * 📰 [News 2025] **Ludum Dare 57th Game Jam**, Apr 5th - Apr 8th. 
-[[News Link](https://ludumdare.com//)] 
+[[News Link](https://ludumdare.com/)] 
+
+* 📰 [News 2025] **Who is Spy 大语言模型谁是卧底竞赛**, Mar 14th - Mar 28th. 
+[[News Link](https://whoisspy.ai/)] 
 
 
 * 📄 [arXiv 2025] **CombatVLA: An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games**, Peng Chen et al. 
