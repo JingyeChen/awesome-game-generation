@@ -74,6 +74,10 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2024]
 
+* 📄 [arXiv 2024] **Beyond Outcomes: Transparent Assessment of LLM Reasoning in Games**, Wenye Lin et al. 
+[[Paper](https://arxiv.org/pdf/2412.13602/)] 
+
+
 * 📄 [NeurIPS 2024 Spotlight] **Generating a Diversity of Challenging Programming Puzzles with Autotelic Generative Models**, Julien Pourcel et al. 
 [[Paper](https://openreview.net/pdf?id=L1mMK39Z7P/)] 
 
@@ -251,6 +255,10 @@ You may use these categorized emojis to search for specific types of material.
 ### [Misc]
 
 The resource below is challenging to categorize yet offers valuable insights for game development.
+
+* 📰 [News 2025] **Ludum Dare 57th Game Jam**, Apr 5th - Apr 8th. 
+[[News Link](https://ludumdare.com//)] 
+
 
 * 📄 [arXiv 2025] **CombatVLA: An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games**, Peng Chen et al. 
 [[Paper](https://arxiv.org/abs/2503.09527/)] 
