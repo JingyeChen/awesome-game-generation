@@ -22,6 +22,7 @@ You may use these categorized emojis to search for specific types of material.
 - 📊 Dataset: Datasets and training data
 - 📹 Video: Video demonstrations and tutorials
 - 📰 News: Latest updates and announcements
+- 💻 Code: Source code and implementations
 
 
 ## Table of Contents
@@ -46,6 +47,9 @@ You may use these categorized emojis to search for specific types of material.
 * 🎮 **Whispers from the Star**, Anuttacon. 
 [[Game Link](https://wfts.anuttacon.com/)] 
 
+* 💻 **GamingAgent - Personal Computer Gaming Agent**, LM Games. 
+[[Code](https://github.com/lmgame-org/GamingAgent)] 
+
 * 📄 [arXiv 2025] **WonderVerse: Extendable 3D Scene Generation with Video Generative Models**, Hao Feng et al. 
 [[Paper](https://arxiv.org/abs/2503.09160/)] 
 
@@ -61,6 +65,10 @@ You may use these categorized emojis to search for specific types of material.
 
 * 📄 [ICLR 2025] **Unbounded: A Generative Infinite Game of Character Life Simulation**, Jialu Li et al. 
 [[Paper](https://arxiv.org/abs/2410.18975/)] 
+
+* 📄 [ICLR 2025] **GameArena: Evaluating LLM Reasoning through Live Computer Games**,  Lanxiang Hu et al. 
+[[Paper](https://arxiv.org/pdf/2412.06394/)] 
+[[Code](https://github.com/lmgame-org/ai-space-escape-engine)] 
 
 * 📄 [ICLR 2025] **GameGen-X: Interactive Open-world Game Video Generation**, Haoxuan Che et al. 
 [[Paper](https://arxiv.org/abs/2411.00769/)] 
