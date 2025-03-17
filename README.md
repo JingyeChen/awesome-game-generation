@@ -85,6 +85,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2024]
 
+* 📄 [blog 2024] **Itch.io's 'No AI' tag is a positive step in the battle against AI slop**, Creative Bloq. 
+[[Blog](https://www.inkl.com/news/itch-io-s-no-ai-tag-is-a-positive-step-in-the-battle-against-ai-slop/)] 
+
 * 📄 [arXiv 2024] **Beyond Outcomes: Transparent Assessment of LLM Reasoning in Games**, Wenye Lin et al. 
 [[Paper](https://arxiv.org/pdf/2412.13602/)] 
 
