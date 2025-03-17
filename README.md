@@ -284,6 +284,9 @@ The resource below is challenging to categorize yet offers valuable insights for
 * 🎮 [2023] **PhD Simulator 读博模拟器**, Mianzhi Wang. 
 [[Game Link](https://research.wmz.ninja/projects/phd/index.zh-hans.html/)] 
 
+* 📄 [Nature 2015] **Human-level control through deep reinforcement learning**, Volodymyr Mnih et al. 
+[[Paper](https://www.nature.com/articles/nature14236/)] 
+
 * 📄 [PCG 2012] **Game-O-Matic: Generating Videogames that Represent Ideas**, Mike Treanor et al. 
 [[Paper](https://dl.acm.org/doi/abs/10.1145/2538528.2538537/)] 
 
