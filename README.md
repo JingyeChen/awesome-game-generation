@@ -35,6 +35,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+* 📄 [arXiv 2025] **The Importance of Context in Image Generation: A Case Study for Video Game Sprites**, Roberto Gallotta et al. 
+[[Paper](https://antoniosliapis.com/papers/the_importance_of_context_in_image_generation_a_case_study_for_video_game_sprites.pdf/)] 
+
 * 📝 [blog 2025] **Real-Time Toxicity Detection in Games: Balancing Moderation and Player Experience**, Sean et al. 
 [[Blog](https://www.confluent.io/blog/confluent-databricks-detecting-gaming-toxicity/)] 
 
@@ -90,6 +93,9 @@ You may use these categorized emojis to search for specific types of material.
 
 * 📄 [arXiv 2024] **Beyond Outcomes: Transparent Assessment of LLM Reasoning in Games**, Wenye Lin et al. 
 [[Paper](https://arxiv.org/pdf/2412.13602/)] 
+
+* 📄 [CoG 2024] **Consistent Game Content Creation via Function Calling for Large Language Models**, Roberto Gallotta et al. 
+[[Paper](https://ieeexplore.ieee.org/document/10645599/)] 
 
 
 * 📄 [NeurIPS 2024 Spotlight] **Generating a Diversity of Challenging Programming Puzzles with Autotelic Generative Models**, Julien Pourcel et al. 
