@@ -41,7 +41,7 @@ You may use these categorized emojis to search for specific types of material.
 * 📝 [blog 2025] **Real-Time Toxicity Detection in Games: Balancing Moderation and Player Experience**, Sean et al. 
 [[Blog](https://www.confluent.io/blog/confluent-databricks-detecting-gaming-toxicity/)] 
 
-* 📄 [blog 2025] **A generalist AI agent for 3D virtual environments**, Google DeepMind. 
+* 📝 [blog 2025] **A generalist AI agent for 3D virtual environments**, Google DeepMind. 
 [[Blog](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)] 
 
 * 📄 [arXiv 2025] **Agents Play Thousands of 3D Video Games**, Zhongwen Xu et al. 
@@ -88,11 +88,14 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2024]
 
-* 📄 [blog 2024] **Itch.io's 'No AI' tag is a positive step in the battle against AI slop**, Creative Bloq. 
+* 📝 [blog 2024] **Itch.io's 'No AI' tag is a positive step in the battle against AI slop**, Creative Bloq. 
 [[Blog](https://www.inkl.com/news/itch-io-s-no-ai-tag-is-a-positive-step-in-the-battle-against-ai-slop/)] 
 
 * 📄 [arXiv 2024] **Beyond Outcomes: Transparent Assessment of LLM Reasoning in Games**, Wenye Lin et al. 
 [[Paper](https://arxiv.org/pdf/2412.13602/)] 
+
+* 📄 [CoG 2024] **LLMaker: A Game Level Design Interface Using (Only) Natural Language**, Roberto Gallotta et al. 
+[[Paper](https://antoniosliapis.com/papers/llmaker_a_game_level_design_interface_using_only_natural_language.pdf/)] 
 
 * 📄 [CoG 2024] **Consistent Game Content Creation via Function Calling for Large Language Models**, Roberto Gallotta et al. 
 [[Paper](https://ieeexplore.ieee.org/document/10645599/)] 
@@ -176,15 +179,15 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2023]
 
+* 🎮 **Gandalf | Lakera – Test your prompting skills to make Gandalf tell the password**. 
+[[Game Link](htthttps://gandalf.lakera.ai/baseline/)]
+
 * 📄 [arXiv 2023] **The Five-Dollar Model: Generating Game Maps and Sprites from Sentence Embeddings**, Timothy Merino et al.
 [[Paper](https://arxiv.org/pdf/2308.04052/)] 
 
 
 * 📄 [arXiv 2023] **Procedural Content Generation of Puzzle Games using Conditional Generative Adversarial Networks**, Andreas Hald et al.
 [[Paper](https://arxiv.org/pdf/2306.15696/)] 
-
-
-
 
 * 🎮 **AI Roguelite**. 
 [[Game Link](https://store.steampowered.com/app/1889620/AI_Roguelite/)] (strongly recommend to see the vision in the game introduction)
@@ -276,6 +279,10 @@ You may use these categorized emojis to search for specific types of material.
 
 The resource below is challenging to categorize yet offers valuable insights for game development.
 
+* 📰 [News 2025] **Unity claims 79 percent of developers are 'feeling positive' about generative AI**. 
+[[News Link](https://www.gamedeveloper.com/production/unity-claims-79-percent-of-developers-are-feeling-positive-about-generative-ai)] 
+
+
 * 📰 [News 2025] **Ludum Dare 57th Game Jam**, Apr 5th - Apr 8th. 
 [[News Link](https://ludumdare.com/)] 
 
@@ -294,12 +301,17 @@ The resource below is challenging to categorize yet offers valuable insights for
 [[Paper](https://arxiv.org/abs/2503.05383/)] 
 
 
+* 📄 [arXiv 2024] **PUZZLEVQA: Diagnosing Multimodal Reasoning Challenges of Language Models with Abstract Visual Patterns**, Yew Ken Chia et al. 
+[[Paper](https://arxiv.org/pdf/2403.13315/)] 
 
 * 📄 [arXiv 2024] **Enhance Reasoning for Large Language Models in the Game Werewolf**, Shuang Wu et al. 
 [[Paper](https://arxiv.org/pdf/2402.02330/)] 
 
 * 🎮 [2023] **PhD Simulator 读博模拟器**, Mianzhi Wang. 
 [[Game Link](https://research.wmz.ninja/projects/phd/index.zh-hans.html/)] 
+
+* 🎮 [2023] **Open Source AI Game Jam**, HuggingFace. 
+[[Game Link](https://itch.io/jam/open-source-ai-game-jam/)] (82 ai-related game submissions inside)
 
 * 📄 [Nature 2015] **Human-level control through deep reinforcement learning**, Volodymyr Mnih et al. 
 [[Paper](https://www.nature.com/articles/nature14236/)] 
