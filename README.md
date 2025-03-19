@@ -179,7 +179,10 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2023]
 
-* 📄 [CoG 2023] **Create Ice Cream: Real-time Creative Element Synthesis Framework Based on GPT3.0**, Timothy Lei Huang al.
+* 📄 [UIST 2023] **Generative Agents: Interactive Simulacra of Human Behavior**, Joon Sung Park al.
+[[Paper](https://arxiv.org/abs/2304.03442/)] 
+
+* 📄 [CoG 2023] **Create Ice Cream: Real-time Creative Element Synthesis Framework Based on GPT3.0**, Lei Huang al.
 [[Paper](https://ieeexplore.ieee.org/document/10333153/)] 
 
 
