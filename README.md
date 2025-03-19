@@ -179,6 +179,10 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2023]
 
+* 📄 [CoG 2023] **Create Ice Cream: Real-time Creative Element Synthesis Framework Based on GPT3.0**, Timothy Lei Huang al.
+[[Paper](https://ieeexplore.ieee.org/document/10333153/)] 
+
+
 * 🎮 **Gandalf | Lakera – Test your prompting skills to make Gandalf tell the password**. 
 [[Game Link](htthttps://gandalf.lakera.ai/baseline/)]
 
