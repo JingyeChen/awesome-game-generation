@@ -190,7 +190,7 @@ You may use these categorized emojis to search for specific types of material.
 
 
 * 🎮 **Gandalf | Lakera – Test your prompting skills to make Gandalf tell the password**. 
-[[Game Link](htthttps://gandalf.lakera.ai/baseline/)]
+[[Game Link](https://gandalf.lakera.ai/baseline/)]
 
 * 📄 [arXiv 2023] **The Five-Dollar Model: Generating Game Maps and Sprites from Sentence Embeddings**, Timothy Merino et al.
 [[Paper](https://arxiv.org/pdf/2308.04052/)] 
