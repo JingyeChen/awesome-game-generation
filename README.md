@@ -243,6 +243,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2020]
 
+* 📄 [AAAI 2020] **Interactive Fiction Games: A Colossal Adventure**, Matthew Hausknecht et al. 
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6297)] 
+
 * 📄 [AAAI 2020] **Generating Game Levels for Multiple Distinct Games with a Common Latent Space**, Vikram Kumaran et al. 
 [[Paper](https://cdn.aaai.org/ojs/7485/7485-52-10946-1-2-20201001.pdf)] 
 
@@ -306,6 +309,9 @@ The resource below is challenging to categorize yet offers valuable insights for
 
 * 📄 [NeurIPS 2024] **VLMs Play StarCraft II: A Benchmark and Multimodal Decision Method**, Weiyu Ma et al. 
 [[Paper](https://arxiv.org/abs/2503.05383/)] 
+
+* 📄 [arXiv 2024] **A Survey on Large Language Model-Based Game Agents**, Sihao Hu et al. 
+[[Paper](https://arxiv.org/pdf/2404.02039/)] 
 
 
 * 📄 [arXiv 2024] **PUZZLEVQA: Diagnosing Multimodal Reasoning Challenges of Language Models with Abstract Visual Patterns**, Yew Ken Chia et al. 
