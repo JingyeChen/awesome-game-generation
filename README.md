@@ -35,6 +35,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+* 📄 [arXiv 2025] **ByteCraft: Generating video games and animations through bytes**, Alexia et al. 
+[[Paper](https://github.com/SamsungSAILMontreal/ByteCraft/blob/main/paper/ByteCraft.pdf/)] 
+
 * 📄 [arXiv 2025] **The Importance of Context in Image Generation: A Case Study for Video Game Sprites**, Roberto Gallotta et al. 
 [[Paper](https://antoniosliapis.com/papers/the_importance_of_context_in_image_generation_a_case_study_for_video_game_sprites.pdf/)] 
 
