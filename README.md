@@ -35,6 +35,16 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+* 📝 [blog 2025] **Saga Origins Redefines AI-Powered Gaming at GDC 2025 With AI Agents, Generative Gaming, AI Modding and More**, Businesswire. 
+[[Blog](https://www.businesswire.com/news/home/20250320707637/en/Saga-Origins-Redefines-AI-Powered-Gaming-at-GDC-2025-With-AI-Agents-Generative-Gaming-AI-Modding-and-More/)] 
+
+
+* 📝 [blog 2025] **AI+游戏：潜力无限，但创新切入点在哪里？**, 五源小酒馆. 
+[[Blog-Chinese](https://mp.weixin.qq.com/s/mWD5jzo_qB-vDm0_RbigZw/)] 
+
+* 📄 [arXiv 2025] **Exploring Large Language Models for Word Games: Who is the Spy?**, Chentian Wei et al. 
+[[Paper](https://arxiv.org/pdf/2503.15235v1/)] 
+
 * 📄 [arXiv 2025] **ByteCraft: Generating video games and animations through bytes**, Alexia et al. 
 [[Paper](https://github.com/SamsungSAILMontreal/ByteCraft/blob/main/paper/ByteCraft.pdf/)] 
 
