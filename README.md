@@ -45,7 +45,7 @@ You may use these categorized emojis to search for specific types of material.
 
 
 * 📝 [blog 2025] **AI+游戏：潜力无限，但创新切入点在哪里？**, 五源小酒馆. 
-[[Blog-Chinese](https://mp.weixin.qq.com/s/mWD5jzo_qB-vDm0_RbigZw/)] 
+[[Blog-Chinese](https://news.qq.com/rain/a/20250320A04EUN00/)] 
 
 * 📄 [arXiv 2025] **Exploring Large Language Models for Word Games: Who is the Spy?**, Chentian Wei et al. 
 [[Paper](https://arxiv.org/abs/2503.15235/)] 
@@ -196,6 +196,9 @@ You may use these categorized emojis to search for specific types of material.
 [[Code](https://github.com/KovenYu/WonderJourney/)] 
 
 ### [2023]
+
+* 🔗 [link 2023] **妈妈对不起，AI桌游太好玩了**, 智能野人. 
+[[Link-Chinese](https://www.bilibili.com/video/BV1UG411f7iE/?spm_id_from=333.337.search-card.all.click&vd_source=d1b24da6e0824375e1d9228625b15777/)] 
 
 * 📄 [UIST 2023] **Generative Agents: Interactive Simulacra of Human Behavior**, Joon Sung Park al.
 [[Paper](https://arxiv.org/abs/2304.03442/)] 
