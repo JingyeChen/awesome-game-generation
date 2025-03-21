@@ -36,6 +36,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+* 📄 [arXiv 2025] **VisEscape: A Benchmark for Evaluating Exploration-driven Decision-making in Virtual Escape Rooms**, Seungwon Lim et al. 
+[[Paper](https://arxiv.org/pdf/2503.14427/)] 
+
 * 🔗 [link 2025] **Take complete control of your AI workflows**, Scenario. 
 [[Link](https://www.scenario.com/)] 
 
