@@ -23,6 +23,7 @@ You may use these categorized emojis to search for specific types of material.
 - 📹 Video: Video demonstrations and tutorials
 - 📰 News: Latest updates and announcements
 - 💻 Code: Source code and implementations
+- 🔗 Link: Useful links and resources
 
 
 ## Table of Contents
@@ -35,7 +36,11 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
-* 📝 [blog 2025] **Saga Origins Redefines AI-Powered Gaming at GDC 2025 With AI Agents, Generative Gaming, AI Modding and More**, Businesswire. 
+* 🔗 [link 2025] **Take complete control of your AI workflows**, Scenario. 
+[[Link](https://www.scenario.com/)] 
+
+
+* 📝 [blog 2025] **Take complete control of your AI workflows**, Businesswire. 
 [[Blog](https://www.businesswire.com/news/home/20250320707637/en/Saga-Origins-Redefines-AI-Powered-Gaming-at-GDC-2025-With-AI-Agents-Generative-Gaming-AI-Modding-and-More/)] 
 
 
