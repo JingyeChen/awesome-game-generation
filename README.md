@@ -40,7 +40,7 @@ You may use these categorized emojis to search for specific types of material.
 [[Link](https://www.scenario.com/)] 
 
 
-* 📝 [blog 2025] **Take complete control of your AI workflows**, Businesswire. 
+* 📝 [blog 2025] **Saga Origins Redefines AI-Powered Gaming at GDC 2025 With AI Agents, Generative Gaming, AI Modding and More**, Businesswire. 
 [[Blog](https://www.businesswire.com/news/home/20250320707637/en/Saga-Origins-Redefines-AI-Powered-Gaming-at-GDC-2025-With-AI-Agents-Generative-Gaming-AI-Modding-and-More/)] 
 
 
