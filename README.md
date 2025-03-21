@@ -48,7 +48,7 @@ You may use these categorized emojis to search for specific types of material.
 [[Blog-Chinese](https://mp.weixin.qq.com/s/mWD5jzo_qB-vDm0_RbigZw/)] 
 
 * 📄 [arXiv 2025] **Exploring Large Language Models for Word Games: Who is the Spy?**, Chentian Wei et al. 
-[[Paper](https://arxiv.org/pdf/2503.15235v1/)] 
+[[Paper](https://arxiv.org/abs/2503.15235/)] 
 
 * 📄 [arXiv 2025] **ByteCraft: Generating video games and animations through bytes**, Alexia et al. 
 [[Paper](https://github.com/SamsungSAILMontreal/ByteCraft/blob/main/paper/ByteCraft.pdf/)] 
