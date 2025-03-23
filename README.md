@@ -55,7 +55,7 @@ You may use these categorized emojis to search for specific types of material.
 
 
 * 📝 [blog 2025] **AI+游戏：潜力无限，但创新切入点在哪里？**, 五源小酒馆. 
-[[Blog-Chinese](https://news.qq.com/rain/a/20250320A04EUN00/)] 
+[[Blog-Chinese](https://news.qq.com/rain/a/20250320A04EUN00/)] (much more insights provided in this blog!)
 
 * 📄 [arXiv 2025] **Exploring Large Language Models for Word Games: Who is the Spy?**, Chentian Wei et al. 
 [[Paper](https://arxiv.org/abs/2503.15235/)] 
