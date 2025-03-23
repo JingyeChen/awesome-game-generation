@@ -40,8 +40,8 @@ You may use these categorized emojis to search for specific types of material.
 [[Paper](https://arxiv.org/pdf/2502.17878/)] 
 
 
-* 🔗 [link 2025] **用随机汉字作为咒语战斗的游戏**. 
-[[Link-Chinese](https://x.com/mono2568/status/1902642772366279017/)] (I extremely like this game idea!)
+* 🔗 [link 2025] **Make words for the battle 用随机汉字作为咒语战斗的游戏**. 
+[[Link](https://x.com/mono2568/status/1902642772366279017/)] (I extremely like this game idea!)
 
 * 📄 [arXiv 2025] **VisEscape: A Benchmark for Evaluating Exploration-driven Decision-making in Virtual Escape Rooms**, Seungwon Lim et al. 
 [[Paper](https://arxiv.org/pdf/2503.14427/)] 
