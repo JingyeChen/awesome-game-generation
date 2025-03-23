@@ -364,6 +364,11 @@ The resource below is challenging to categorize yet offers valuable insights for
 * 🎮 [2023] **Open Source AI Game Jam**, HuggingFace. 
 [[Game Link](https://itch.io/jam/open-source-ai-game-jam/)] (82 ai-related game submissions inside)
 
+* 📄 [NAACL 2021] **Blow the Dog Whistle: A Chinese Dataset for Cant Understanding with Common Sense and World Knowledge**, Canwen Xu et al. 
+[[Paper](https://arxiv.org/abs/2104.02704/)] (Work Originating from the MSRA Board Game Club!)
+
+
+
 * 📄 [Nature 2015] **Human-level control through deep reinforcement learning**, Volodymyr Mnih et al. 
 [[Paper](https://www.nature.com/articles/nature14236/)] 
 
