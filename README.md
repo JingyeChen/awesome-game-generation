@@ -41,7 +41,7 @@ You may use these categorized emojis to search for specific types of material.
 
 
 * 🔗 [link 2025] **用随机汉字作为咒语战斗的游戏**. 
-[[Link-Chinese](https://www.xiaohongshu.com/explore/67de934e000000001d01ee6f?app_platform=ios&app_version=8.75&share_from_user_hidden=true&xsec_source=app_share&type=video&xsec_token=CBOqOM9cx_lAgZSxBv4bUjmceGOx9PZby_SDoORkS5eVI=&author_share=1&xhsshare=WeixinSession&shareRedId=N0lIRjs9Rkw2NzUyOTgwNjc1OTk7Nkg-&apptime=1742697868&share_id=61638bbe2ae941c1bba965dea891adcc/)] (I extremely like this game idea!)
+[[Link-Chinese](https://x.com/mono2568/status/1902642772366279017/)] (I extremely like this game idea!)
 
 * 📄 [arXiv 2025] **VisEscape: A Benchmark for Evaluating Exploration-driven Decision-making in Virtual Escape Rooms**, Seungwon Lim et al. 
 [[Paper](https://arxiv.org/pdf/2503.14427/)] 
