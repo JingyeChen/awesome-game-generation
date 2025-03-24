@@ -36,6 +36,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+* 🎮 **inZOI**, inZOI Studio.
+[[Game Link](https://store.steampowered.com/app/2456740/inZOI//)]
+
 * 📄 [arXiv 2025] **Towards Enhanced Immersion and Agency for LLM-based Interactive Drama**, Hongqiu Wu et al. 
 [[Paper](https://arxiv.org/pdf/2502.17878/)] 
 
