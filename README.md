@@ -126,6 +126,10 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2024]
 
+* 📝 [blog 2024] **A Note on Generative Games: Positioning, Progress and Prospects**, cheneysang. 
+[[Blog](https://github.com/cheneysang/Generative-Games/)] 
+
+
 * 📄 [arXiv 2024] **PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based, Role-Playing Video Games**, Steph Buongiorno et al. 
 [[Paper](https://arxiv.org/pdf/2404.19721/)] 
 
@@ -175,6 +179,8 @@ You may use these categorized emojis to search for specific types of material.
 * 🎮 **Free Pokémon**, Delta-Engine. 
 [[Game Link](https://github.com/gingasan/delta-engine/tree/main/free-pokemon)] 
 
+* 🎮 **Suck Up!**, Proxima. 
+[[Game Link](https://www.playsuckup.com/)] 
 
 * 📝 [blog 2024] **YingGame: Interactive Character Control in Game World Generation**, Xinhan Di et al. 
 [[blog](https://giantailab.github.io/yinggame/)] 
