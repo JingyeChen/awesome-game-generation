@@ -36,6 +36,10 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+* 📄 [arXiv 2025] **In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**, Vitaly Gnatyuk et al. 
+[[Paper](https://arxiv.org/abs/2503.19793v1/)] 
+
+
 * 📝 [blog 2025] **AI-Native游戏应该如何落地？看看这12款游戏是怎么做的!**, Founder Park. 
 [[Blog-Chinese](https://mp.weixin.qq.com/s/yj3-PkU8iLPBcS4DUgqaOw)] 
 
