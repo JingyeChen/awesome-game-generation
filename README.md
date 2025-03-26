@@ -36,8 +36,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
-* 📄 [arXiv 2025] **Position: Interactive Generative Video as Next-Generation Game Engine**, Jiwen Yu et al. 
-[[Paper](https://arxiv.org/pdf/2503.17359/)] 
+* 📝 [blog 2025] **AI-Native游戏应该如何落地？看看这12款游戏是怎么做的!**, Founder Park. 
+[[Blog-Chinese](https://mp.weixin.qq.com/s/yj3-PkU8iLPBcS4DUgqaOw)] 
+
 
 * 🎮 **inZOI**, inZOI Studio.
 [[Game Link](https://store.steampowered.com/app/2456740/inZOI//)]
