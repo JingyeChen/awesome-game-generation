@@ -225,7 +225,15 @@ You may use these categorized emojis to search for specific types of material.
 [[Paper](https://arxiv.org/abs/2312.03884/)] 
 [[Code](https://github.com/KovenYu/WonderJourney/)] 
 
+* 🎮 **头号做题家之《我把大模型玩坏了》**, 野猫子工作室.
+[[Game Link](https://www.qbitai.com/2024/06/157850.html)]
+
+
 ### [2023]
+
+* 📄 [NeurIPS 2023 Workshop] **Voyager: An Open-Ended Embodied Agent with Large Language Models**, Guanzhi Wang al.
+[[Paper](https://arxiv.org/abs/2305.16291/)] 
+
 
 * 🔗 [link 2023] **妈妈对不起，AI桌游太好玩了**, 智能野人. 
 [[Link-Chinese](https://www.bilibili.com/video/BV1UG411f7iE/?spm_id_from=333.337.search-card.all.click&vd_source=d1b24da6e0824375e1d9228625b15777/)] 
@@ -265,6 +273,8 @@ You may use these categorized emojis to search for specific types of material.
 [[Paper](https://arxiv.org/pdf/2302.05981/)] 
 [[Code](https://github.com/shyamsn97/mario-gpt)] 
 
+
+
 * 📝 [blog 2023] **LLM Riddles 完蛋了我被LLM包围了**, Haoqiang Fan. 
 [[Blog-Chinese](https://zhuanlan.zhihu.com/p/665393240)] (also recommend to see other wonderful blogs!)
 
@@ -293,6 +303,10 @@ You may use these categorized emojis to search for specific types of material.
 
 
 ### [2020]
+
+* 📄 [EMNLP 2020] **Keep CALM and Explore: Language Models for Action Generation in Text-based Games**, Shunyu Yao et al. 
+[[Paper](https://arxiv.org/abs/2010.02903)] 
+
 
 * 📄 [AAAI 2020] **Interactive Fiction Games: A Colossal Adventure**, Matthew Hausknecht et al. 
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6297)] 
@@ -387,6 +401,9 @@ The resource below is challenging to categorize yet offers valuable insights for
 
 * 📄 [PCG 2012] **Game-O-Matic: Generating Videogames that Represent Ideas**, Mike Treanor et al. 
 [[Paper](https://dl.acm.org/doi/abs/10.1145/2538528.2538537/)] 
+
+* 📝 [blog 1993] **Portable Game Notation**, Wikipedia. 
+[[Blog](https://en.wikipedia.org/wiki/Portable_Game_Notation)] 
 
 ## License
 
