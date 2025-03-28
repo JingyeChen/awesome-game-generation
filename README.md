@@ -36,6 +36,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+* 📄 [arXiv 2025] **Model as a Game: On Numerical and Spatial Consistency for Generative Games**, Jingye Chen et al. 
+[[Paper](https://arxiv.org/abs/2503.21172/)] 
+
 * 📄 [arXiv 2025] **In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**, Vitaly Gnatyuk et al. 
 [[Paper](https://arxiv.org/abs/2503.19793v1/)] 
 
