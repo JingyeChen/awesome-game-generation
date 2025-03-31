@@ -217,6 +217,11 @@ You may use these categorized emojis to search for specific types of material.
 [[Paper](https://arxiv.org/abs/2405.12399/)] 
 [[Code](https://github.com/eloialonso/diamond)] 
 
+
+* 📄 [NeurIPS 2024] **GAVEL: Generating Games Via Evolution and Language Models**, Graham Todd et al.
+[[Paper](https://arxiv.org/pdf/2407.09388/)] 
+
+
 * 📄 [CoG 2024] **Game Generation via Large Language Models**, Chengpeng Hu et al. 
 [[Paper](https://arxiv.org/abs/2404.08706v2)] 
 
