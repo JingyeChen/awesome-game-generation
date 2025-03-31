@@ -40,7 +40,7 @@ You may use these categorized emojis to search for specific types of material.
 [[Paper](https://arxiv.org/abs/2503.21172/)] 
 
 * 📄 [arXiv 2025] **OPEN ROLE-PLAYING WITH DELTA-ENGINES**, Hongqiu Wu et al. 
-[[Paper](https://arxiv.org/pdf/2408.05842/)] 
+[[Paper](https://arxiv.org/pdf/2408.05842/)] (like the idea of this paper!)
 
 
 * 📄 [arXiv 2025] **In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**, Vitaly Gnatyuk et al. 
