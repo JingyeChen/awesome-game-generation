@@ -138,6 +138,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2024]
 
+* 📄 [AAAI 2024] **Procedural Level Generation with Diffusion Models from a Single Example**, Shiqi Dai et al. 
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28865/)] 
+
 * 📄 [arXiv 2024] **GameDevelopment as Human-LLM Interaction**, Jiale Hong et al. 
 [[Paper](https://arxiv.org/pdf/2408.09386/)] 
 
