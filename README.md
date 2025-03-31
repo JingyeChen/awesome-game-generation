@@ -138,6 +138,10 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2024]
 
+* 📄 [arXiv 2024] **GameDevelopment as Human-LLM Interaction**, Jiale Hong et al. 
+[[Paper](https://arxiv.org/pdf/2408.09386/)] 
+
+
 * 📄 [EMNLP 2024] **Instruction-Driven Game Engine: A Poker Case Study**, Hongqiu Wu et al. 
 [[Paper](https://arxiv.org/pdf/2410.13441/)] 
 
