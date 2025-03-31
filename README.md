@@ -39,6 +39,10 @@ You may use these categorized emojis to search for specific types of material.
 * 📄 [arXiv 2025] **Model as a Game: On Numerical and Spatial Consistency for Generative Games**, Jingye Chen et al. 
 [[Paper](https://arxiv.org/abs/2503.21172/)] 
 
+* 📄 [arXiv 2025] **OPEN ROLE-PLAYING WITH DELTA-ENGINES**, Hongqiu Wu et al. 
+[[Paper](https://arxiv.org/pdf/2408.05842/)] 
+
+
 * 📄 [arXiv 2025] **In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**, Vitaly Gnatyuk et al. 
 [[Paper](https://arxiv.org/abs/2503.19793v1/)] 
 
@@ -133,6 +137,9 @@ You may use these categorized emojis to search for specific types of material.
 
 
 ### [2024]
+
+* 📄 [arXiv 2024] **From Code to Play: Benchmarking Program Search for Games Using Large Language Models**, Manuel Eberhardinger et al. 
+[[Paper](https://arxiv.org/pdf/2412.04057/)] 
 
 * 📝 [blog 2024] **A Note on Generative Games: Positioning, Progress and Prospects**, cheneysang. 
 [[Blog](https://github.com/cheneysang/Generative-Games/)] 
