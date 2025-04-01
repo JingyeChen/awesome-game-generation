@@ -142,6 +142,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2024]
 
+* 📄 [AAAI 2024] **Word2World: Generating Stories and Worlds through Large Language Models**, Muhammad Umair Nasir et al. 
+[[Paper](https://arxiv.org/pdf/2405.06686/)] 
+
 * 📄 [AAAI 2024] **Procedural Level Generation with Diffusion Models from a Single Example**, Shiqi Dai et al. 
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28865/)] 
 
