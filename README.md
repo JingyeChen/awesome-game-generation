@@ -39,6 +39,10 @@ You may use these categorized emojis to search for specific types of material.
 * 📄 [arXiv 2025] **Model as a Game: On Numerical and Spatial Consistency for Generative Games**, Jingye Chen et al. 
 [[Paper](https://arxiv.org/abs/2503.21172/)] 
 
+* 📄 [CHI 2025 Best Paper] **DreamGarden: A Designer Assistant for Growing Games from a Single Prompt**, Sam Earle et al. 
+[[Paper](https://arxiv.org/abs/2410.01791v1/)]
+
+
 * 📄 [arXiv 2025] **OPEN ROLE-PLAYING WITH DELTA-ENGINES**, Hongqiu Wu et al. 
 [[Paper](https://arxiv.org/pdf/2408.05842/)] (like the idea of this paper!)
 
