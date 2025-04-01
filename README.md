@@ -1,4 +1,4 @@
-# Awesome-Game-Generation 🎮 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Game-Generation  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)](https://github.com/awesome-model-as-a-game/awesome-model-as-a-game)  [![Visitors](https://api.visitorbadge.io/api/visitors?path=awesome-model-as-a-game%2Fawesome-model-as-a-game&label=Visitors&countColor=%2337d67a&style=flat)](https://visitorbadge.io/status?path=awesome-model-as-a-game%2Fawesome-model-as-a-game)
 
