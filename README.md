@@ -142,6 +142,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2024]
 
+* 📄 [arXiv 2024] **R2-Play: Decision Transformer with Multimodal Game Instruction**, Yonggang Jin et al. 
+[[Paper](https://arxiv.org/abs/2402.04154/)] 
+
 * 📄 [AAAI 2024] **Word2World: Generating Stories and Worlds through Large Language Models**, Muhammad Umair Nasir et al. 
 [[Paper](https://arxiv.org/pdf/2405.06686/)] 
 
