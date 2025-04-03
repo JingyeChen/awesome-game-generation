@@ -36,6 +36,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+* 📄 [arXiv 2025] **AnimeGamer: Infinite Anime Life Simulation with Next Game State Prediction**, Junhao Cheng et al. 
+[[Paper](https://arxiv.org/abs/2504.01014v1/)] 
+
 * 📄 [arXiv 2025] **Model as a Game: On Numerical and Spatial Consistency for Generative Games**, Jingye Chen et al. 
 [[Paper](https://arxiv.org/abs/2503.21172/)] 
 
