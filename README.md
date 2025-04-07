@@ -36,6 +36,19 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+* 📝 [blog 2025] **WHAMM! Real-time world modelling of interactive environments**, Microsoft. 
+[[Blog](https://www.microsoft.com/en-us/research/articles/whamm-real-time-world-modelling-of-interactive-environments/)] 
+
+
+* 📄 [arXiv 2025] **AdaWorld: Learning Adaptable World Models with Latent Actions**, Shenyuan Gao et al. 
+[[Paper](https://arxiv.org/abs/2503.18938/)] 
+
+* 📄 [arXiv 2025] **WonderTurbo: Generating Interactive 3D World in 0.72 Seconds**, Chaojun Ni et al. 
+[[Paper](https://www.arxiv.org/abs/2504.02261/)] 
+
+* 📄 [arXiv 2025] **Exploration-Driven Generative Interactive Environments**, Nedko Savov et al. 
+[[Paper](https://arxiv.org/abs/2504.02515/)] 
+
 * 📄 [arXiv 2025] **AnimeGamer: Infinite Anime Life Simulation with Next Game State Prediction**, Junhao Cheng et al. 
 [[Paper](https://arxiv.org/abs/2504.01014v1/)] 
 
