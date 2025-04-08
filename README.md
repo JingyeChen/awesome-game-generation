@@ -36,6 +36,10 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+* 📝 [blog 2025] **https://lucidsim.co/**, Lucid. 
+[[Blog](https://lucidsim.co//)] 
+
+
 * 📝 [blog 2025] **WHAMM! Real-time world modelling of interactive environments**, Microsoft. 
 [[Blog](https://www.microsoft.com/en-us/research/articles/whamm-real-time-world-modelling-of-interactive-environments/)] 
 
