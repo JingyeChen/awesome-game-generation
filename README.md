@@ -36,6 +36,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+* 📄 [arXiv 2025] **MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft**, Junliang Guo et al. 
+[[Paper](https://arxiv.org/abs/2504.08388/)] 
+
 * 📄 [arXiv 2025] **Enhancing Player Enjoyment with a Two-Tier DRL and LLM-Based Agent System for Fighting Games**, Shouren Wang et al. 
 [[Paper](https://arxiv.org/abs/2504.07425/)] 
 
