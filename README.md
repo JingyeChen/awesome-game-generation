@@ -51,6 +51,7 @@ You may use these categorized emojis to search for specific types of material.
 
 * 📝 [blog 2025] **WHAMM! Real-time world modelling of interactive environments**, Microsoft. 
 [[Blog](https://www.microsoft.com/en-us/research/articles/whamm-real-time-world-modelling-of-interactive-environments/)] 
+[[Blog](https://www.inverse.com/gaming/quake-2-microsoft-copilot-demo-generative-ai/)] 
 
 
 * 📄 [arXiv 2025] **AdaWorld: Learning Adaptable World Models with Latent Actions**, Shenyuan Gao et al. 
