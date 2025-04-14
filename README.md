@@ -36,10 +36,13 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+* 📄 [arXiv 2025] **Enhancing Player Enjoyment with a Two-Tier DRL and LLM-Based Agent System for Fighting Games**, Shouren Wang et al. 
+[[Paper](https://arxiv.org/abs/2504.07425/)] 
+
 * 📄 [arXiv 2025] **V-MAGE: A Game Evaluation Framework for Assessing Visual-Centric Capabilities in Multimodal Large Language Models**, Xiangxi Zheng et al. 
 [[Paper](https://arxiv.org/abs/2504.06148/)] 
 
-* 📝 [blog 2025] **https://lucidsim.co/**, Lucid. 
+* 📝 [blog 2025] **Lucid Minecraft Simulator**, Lucid. 
 [[Blog](https://lucidsim.co//)] 
 
 
