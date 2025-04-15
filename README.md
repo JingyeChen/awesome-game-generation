@@ -161,6 +161,9 @@ You may use these categorized emojis to search for specific types of material.
 [[Paper](https://arxiv.org/abs/2411.00769/)] 
 [[Code](https://github.com/GameGen-X/GameGen-X)] 
 
+* 📄 [ICLR 2025] **COMBO: Compositional World Models for Embodied Multi-Agent Cooperation**, Hongxin Zhang et al. 
+[[Paper](https://arxiv.org/abs/2404.10775/)] 
+
 
 * 📄 [ICLR 2025] **Diffusion Models Are Real-Time Game Engines**, Dani Valevski et al. 
 [[Paper](https://arxiv.org/abs/2408.14837/)] 
