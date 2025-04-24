@@ -36,6 +36,12 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+* 📝 [blog 2025] **Video Game Bench**, Alex Zhang et al. 
+[[Paper](https://www.vgbench.com//)] 
+
+* 📄 [arXiv 2025] **WORLDMEM: Long-term Consistent World Simulation with Memory**, Zeqi Xiao et al. 
+[[Paper](https://www.arxiv.org/abs/2504.12369/)] 
+
 * 📄 [arXiv 2025] **MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft**, Junliang Guo et al. 
 [[Paper](https://arxiv.org/abs/2504.08388/)] 
 
