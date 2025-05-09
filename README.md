@@ -36,8 +36,11 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+* 📝 [blog 2025] **Introducing Multiverse: The First AI Multiplayer World Model**, Enigma Labs. 
+[[Blog](https://enigma-labs.io/blog/)] 
+
 * 📝 [blog 2025] **Video Game Bench**, Alex Zhang et al. 
-[[Paper](https://www.vgbench.com//)] 
+[[Blog](https://www.vgbench.com//)] 
 
 * 📄 [arXiv 2025] **WORLDMEM: Long-term Consistent World Simulation with Memory**, Zeqi Xiao et al. 
 [[Paper](https://www.arxiv.org/abs/2504.12369/)] 
@@ -218,6 +221,9 @@ You may use these categorized emojis to search for specific types of material.
 
 * 📄 [CoG 2024] **Consistent Game Content Creation via Function Calling for Large Language Models**, Roberto Gallotta et al. 
 [[Paper](https://ieeexplore.ieee.org/document/10645599/)] 
+
+* 📄 [NeurIPS 2024 D&B] **GameTraversalBenchmark: Evaluating Planning Abilities Of Large Language Models Through Traversing 2D Game Maps**,  Muhammad Umair Nasir et al. 
+[[Paper](https://arxiv.org/abs/2410.07765v1/)] 
 
 
 * 📄 [NeurIPS 2024 Spotlight] **Generating a Diversity of Challenging Programming Puzzles with Autotelic Generative Models**, Julien Pourcel et al. 
