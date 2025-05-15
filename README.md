@@ -36,6 +36,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+* 📝 [blog 2025] **Matrix Game**, Skywork AI. 
+[[Blog](https://matrix-game-homepage.github.io/?utm_source=ai-bot.cn/)] 
+
 * 📝 [blog 2025] **Introducing Multiverse: The First AI Multiplayer World Model**, Enigma Labs. 
 [[Blog](https://enigma-labs.io/blog/)] 
 
