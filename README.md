@@ -36,6 +36,10 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+* 📝 [blog 2025] **Runway is going to let people generate video games with AI**, theverge. 
+[[Blog](https://www.theverge.com/ai-artificial-intelligence/694531/runway-ai-video-games-generate/)] 
+
+
 * 📝 [arXiv 2025] **Matrix-Game: Interactive World Foundation Model**, Yifan Zhang et al. 
 [[Paper](https://arxiv.org/pdf/2506.18701/)] 
 
