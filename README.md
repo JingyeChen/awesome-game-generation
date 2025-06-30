@@ -36,6 +36,10 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+* 📝 [arXiv 2025] **Matrix-Game: Interactive World Foundation Model**, Yifan Zhang et al. 
+[[Paper](https://arxiv.org/pdf/2506.18701/)] 
+
+
 * 📝 [blog 2025] **Matrix Game**, Skywork AI. 
 [[Blog](https://matrix-game-homepage.github.io/?utm_source=ai-bot.cn/)] 
 
@@ -181,7 +185,7 @@ You may use these categorized emojis to search for specific types of material.
 [[Paper](https://arxiv.org/abs/2408.14837/)] 
 
 
-* 📄 [arXiv 2025] **GameFactory: Creating New Games with Generative Interactive Videos**, Jiwen Yu et al. 
+* 📄 [ICCV 2025] **GameFactory: Creating New Games with Generative Interactive Videos**, Jiwen Yu et al. 
 [[Paper](https://arxiv.org/abs/2501.08325/)] 
 
 
