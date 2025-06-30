@@ -39,6 +39,11 @@ You may use these categorized emojis to search for specific types of material.
 * 📝 [arXiv 2025] **Matrix-Game: Interactive World Foundation Model**, Yifan Zhang et al. 
 [[Paper](https://arxiv.org/pdf/2506.18701/)] 
 
+* 📝 [arXiv 2025] **Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition**, Jiaqi Li et al. 
+[[Paper](https://www.arxiv.org/abs/2506.17201/)] 
+
+* 📝 [arXiv 2025] **Playing with Transformer at 30+ FPS via Next-Frame Diffusion**, Xinle Cheng et al. 
+[[Paper](https://arxiv.org/abs/2506.01380/)] 
 
 * 📝 [blog 2025] **Matrix Game**, Skywork AI. 
 [[Blog](https://matrix-game-homepage.github.io/?utm_source=ai-bot.cn/)] 
