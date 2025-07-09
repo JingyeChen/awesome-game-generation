@@ -36,6 +36,11 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+
+* 📝 [blog 2025] **Mirage Game Model**, Mirage. 
+[[Blog](https://x.com/DynamicsLab_AI/status/1940459345675968669/)] 
+
+
 * 📝 [blog 2025] **Runway is going to let people generate video games with AI**, theverge. 
 [[Blog](https://www.theverge.com/ai-artificial-intelligence/694531/runway-ai-video-games-generate/)] 
 
@@ -193,6 +198,8 @@ You may use these categorized emojis to search for specific types of material.
 * 📄 [ICLR 2025] **Diffusion Models Are Real-Time Game Engines**, Dani Valevski et al. 
 [[Paper](https://arxiv.org/abs/2408.14837/)] 
 
+* 📄 [arXiv 2025] **Position: Interactive generative video as next-generation game engine**, Jiwen Yu et al. 
+[[Paper](https://arxiv.org/abs/2503.17359/)] 
 
 * 📄 [ICCV 2025] **GameFactory: Creating New Games with Generative Interactive Videos**, Jiwen Yu et al. 
 [[Paper](https://arxiv.org/abs/2501.08325/)] 
