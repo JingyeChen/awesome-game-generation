@@ -36,6 +36,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2025]
 
+* 📝 [arXiv 2025] **Yan: Foundational Interactive Video Generation**, Yan Team, Tencent. 
+[[Paper](https://www.arxiv.org/abs/2508.08601)] 
+
 * 📝 [blog 2025] **Genie 3: A new frontier for world models**, Google DeepMind. 
 [[Blog](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models//)] 
 
