@@ -42,6 +42,8 @@ You may use these categorized emojis to search for specific types of material.
 * 📝 [blog 2025] **Genie 3: A new frontier for world models**, Google DeepMind. 
 [[Blog](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models//)] 
 
+* 📝 [Siggraph Asia 2025] **Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval**, Jiwen Yu et al. 
+[[Paper](https://arxiv.org/abs/2506.03141)] 
 
 * 📝 [arXiv 2025] **HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels**, Hunyuan World Team et al. 
 [[Paper](https://arxiv.org/abs/2507.21809)] 
