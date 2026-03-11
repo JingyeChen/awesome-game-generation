@@ -33,6 +33,11 @@ You may use these categorized emojis to search for specific types of material.
 
 ## Resource
 
+### [2026]
+
+* 📝 [blog 2026] **What is the real native AI Game?**, Meshy. 
+[[Blog](https://mp.weixin.qq.com/s/JjurJbtQAqz65OEz6A26mw)] (🔥) 
+
 
 ### [2025]
 
