@@ -38,6 +38,8 @@ You may use these categorized emojis to search for specific types of material.
 * 📝 [blog 2026] **What is the real native AI Game?**, Meshy. 
 [[Blog](https://mp.weixin.qq.com/s/JjurJbtQAqz65OEz6A26mw)] (🔥) 
 
+* 📝 [arxiv 2026] **LingBot-World: Advancing Open-source World Models**, Robbyant. 
+[[Paper](https://arxiv.org/abs/2601.20540)] (🔥) 
 
 ### [2025]
 
