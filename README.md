@@ -36,9 +36,15 @@ You may use these categorized emojis to search for specific types of material.
 ### [2026]
 
 * 📝 [blog 2026] **What is the real native AI Game?**, Meshy. 
-[[Blog](https://mp.weixin.qq.com/s/JjurJbtQAqz65OEz6A26mw)] (🔥) 
+[[Blog](https://mp.weixin.qq.com/s/JjurJbtQAqz65OEz6A26mw)] (🔥)
 
-* 📝 [arxiv 2026] **LingBot-World: Advancing Open-source World Models**, Robbyant. 
+* 📄 [arxiv 2026] **Solaris: Building a Multiplayer Video World Model in Minecraft**, Georgy Savva, et al. 
+[[Paper](https://arxiv.org/abs/2602.22208)] (🔥) 
+
+* 📄 [arxiv 2026] **WorldCompass: Reinforcement Learning for Long-Horizon World Models**, Zehan Wang, et al. 
+[[Paper](https://arxiv.org/abs/2602.09022)] (🔥) 
+
+* 📄 [arxiv 2026] **LingBot-World: Advancing Open-source World Models**, Robbyant. 
 [[Paper](https://arxiv.org/abs/2601.20540)] (🔥) 
 
 ### [2025]
