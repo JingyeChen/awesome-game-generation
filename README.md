@@ -72,6 +72,12 @@ You may use these categorized emojis to search for specific types of material.
 * 📝 [arXiv 2025] **NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**, Luke Rivard et al. 
 [[Paper](https://arxiv.org/abs/2507.08800/)] (Cool!)
 
+* 📝 [arXiv 2025] **FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in Diverse Adventure Games**, Jaewoo Ahn et al. 
+[[Paper](https://arxiv.org/abs/2509.01052)]
+
+* 📝 [arXiv 2025] **Orak: A Foundational Benchmark for Training and Evaluating LLM Agents on Diverse Video Games**, Jaewoo Ahn et al. 
+[[Paper](https://arxiv.org/abs/2506.03610)]
+
 
 * 📝 [blog 2025] **Mirage Game Model**, Mirage. 
 [[Blog](https://x.com/DynamicsLab_AI/status/1940459345675968669/)] 
