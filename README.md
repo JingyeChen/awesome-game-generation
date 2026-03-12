@@ -35,6 +35,9 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2026]
 
+* 🎮 **AGG**, AntGroup.
+[[Game Link](https://biao-gong.github.io/#/)]
+
 * 📝 [blog 2026] **What is the real native AI Game?**, Meshy. 
 [[Blog](https://mp.weixin.qq.com/s/JjurJbtQAqz65OEz6A26mw)] (🔥)
 
