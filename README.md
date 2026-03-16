@@ -8,6 +8,7 @@ A curated list of resources for using artificial intelligence models in game dev
 
 ## News
 
+- [2026/03/16] Overall one hundred commits within one year! 
 - [2025/03/10] The first version of this awesome repo. 
 
 
