@@ -57,25 +57,25 @@ You may use these categorized emojis to search for specific types of material.
 [[Blog](https://x.com/DynamicsLab_AI/status/1958592749378445319)] (🔥) 
 
 
-* 📝 [arXiv 2025] **Yan: Foundational Interactive Video Generation**, Yan Team, Tencent. 
+* 📄 [arXiv 2025] **Yan: Foundational Interactive Video Generation**, Yan Team, Tencent. 
 [[Paper](https://www.arxiv.org/abs/2508.08601)] (🔥) 
 
 * 📝 [blog 2025] **Genie 3: A new frontier for world models**, Google DeepMind. 
 [[Blog](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models//)] 
 
-* 📝 [Siggraph Asia 2025] **Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval**, Jiwen Yu et al. 
+* 📄 [Siggraph Asia 2025] **Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval**, Jiwen Yu et al. 
 [[Paper](https://arxiv.org/abs/2506.03141)] 
 
-* 📝 [arXiv 2025] **HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels**, Hunyuan World Team et al. 
+* 📄 [arXiv 2025] **HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels**, Hunyuan World Team et al. 
 [[Paper](https://arxiv.org/abs/2507.21809)] 
 
-* 📝 [arXiv 2025] **NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**, Luke Rivard et al. 
+* 📄 [arXiv 2025] **NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**, Luke Rivard et al. 
 [[Paper](https://arxiv.org/abs/2507.08800/)] (Cool!)
 
-* 📝 [arXiv 2025] **FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in Diverse Adventure Games**, Jaewoo Ahn et al. 
+* 📄 [arXiv 2025] **FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in Diverse Adventure Games**, Jaewoo Ahn et al. 
 [[Paper](https://arxiv.org/abs/2509.01052)]
 
-* 📝 [arXiv 2025] **Orak: A Foundational Benchmark for Training and Evaluating LLM Agents on Diverse Video Games**, Jaewoo Ahn et al. 
+* 📄 [arXiv 2025] **Orak: A Foundational Benchmark for Training and Evaluating LLM Agents on Diverse Video Games**, Jaewoo Ahn et al. 
 [[Paper](https://arxiv.org/abs/2506.03610)]
 
 
@@ -87,13 +87,13 @@ You may use these categorized emojis to search for specific types of material.
 [[Blog](https://www.theverge.com/ai-artificial-intelligence/694531/runway-ai-video-games-generate/)] 
 
 
-* 📝 [arXiv 2025] **Matrix-Game: Interactive World Foundation Model**, Yifan Zhang et al. 
+* 📄 [arXiv 2025] **Matrix-Game: Interactive World Foundation Model**, Yifan Zhang et al. 
 [[Paper](https://arxiv.org/pdf/2506.18701/)] 
 
-* 📝 [arXiv 2025] **Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition**, Jiaqi Li et al. 
+* 📄 [arXiv 2025] **Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition**, Jiaqi Li et al. 
 [[Paper](https://www.arxiv.org/abs/2506.17201/)] 
 
-* 📝 [arXiv 2025] **Playing with Transformer at 30+ FPS via Next-Frame Diffusion**, Xinle Cheng et al. 
+* 📄 [arXiv 2025] **Playing with Transformer at 30+ FPS via Next-Frame Diffusion**, Xinle Cheng et al. 
 [[Paper](https://arxiv.org/abs/2506.01380/)] 
 
 * 📝 [blog 2025] **Matrix Game**, Skywork AI. 
