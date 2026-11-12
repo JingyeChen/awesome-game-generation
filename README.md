@@ -36,6 +36,10 @@ You may use these categorized emojis to search for specific types of material.
 
 ### [2026]
 
+* 📄 [NeurIPS 2026] **FlockWorld: Toward Population-Scale Multi-Agent Video World Models through Artificial Life Simulation**, Meryem Koksal et al. 
+[[Paper](https://arxiv.org/abs/2610.34564)] 
+[[Code](https://github.com/wangyz1999/flockworld)] 
+
 * 🎮 **AGG**, AntGroup.
 [[Game Link](https://biao-gong.github.io/#/)] (The pocket ball demo is interesting!) 
 
